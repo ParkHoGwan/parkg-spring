@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	implementation 'org.mariadb.jdbc:mariadb-java-client:2.+'
+	implementation 'org.springframework:spring-context:5.+'
+	implementation 'org.springframework:spring-jdbc:5.+'
+}
