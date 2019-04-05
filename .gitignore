@@ -5,3 +5,4 @@ settings.*
 resource*
 bin*
 build/
+db.properties
