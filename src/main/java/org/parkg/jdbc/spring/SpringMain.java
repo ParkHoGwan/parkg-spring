@@ -1,4 +1,4 @@
-package com.parkg.jdbc.spring;
+package org.parkg.jdbc.spring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
