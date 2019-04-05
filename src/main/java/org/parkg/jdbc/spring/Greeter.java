@@ -1,4 +1,4 @@
-package com.parkg.jdbc.spring;
+package org.parkg.jdbc.spring;
 
 public class Greeter {
 	public Greeter()
